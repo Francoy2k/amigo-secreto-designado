@@ -34,13 +34,7 @@ Un navegador moderno (Chrome, Firefox, Edge, etc.).
 Conexión a internet para cargar las fuentes de Google Fonts (Merriweather e Inter).
 No se necesitan dependencias externas, ¡es puro HTML, CSS y JavaScript vanilla! 🍦
 Estructura del proyecto
-texto
 
-Contraer
-
-Ajuste
-
-Copiar
 amigo-secreto-designado/
 ├── index.html         # Estructura principal del juego
 ├── aplicacion.js      # Lógica del sorteo y manejo de datos
@@ -59,13 +53,7 @@ Agrega amigos:
 "María - Tacos"
 (Opcional) Registra un conductor anterior: "Juan".
 Haz el sorteo. Resultado posible:
-texto
 
-Contraer
-
-Ajuste
-
-Copiar
 Ana pagará la cena de María: Tacos. Conductor designado: Ana.
 Capturas de pantalla
 ![Capturadel juego](README.img/captura.png)
@@ -79,11 +67,6 @@ Tipografías : Merriweather para un toque elegante e Inter para claridad.
 Fondo festivo : Una imagen que combina regalos, cena y un conductor designado.
 CSS
 
-Contraer
-
-Ajuste
-
-Copiar
 button {
     box-shadow: 0 5px 0 var(--color-tertiary), 0 6px 10px rgba(0, 0, 0, 0.3);
     transition: all 0.2s ease;
