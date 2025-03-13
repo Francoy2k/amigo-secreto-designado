@@ -68,7 +68,7 @@ Ajuste
 Copiar
 Ana pagará la cena de María: Tacos. Conductor designado: Ana.
 Capturas de pantalla
-
+![Capturadel juego](README.img/captura.png)
 
 (Captura de la interfaz en acción para mostrar el diseño)
 
