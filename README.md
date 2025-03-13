@@ -1,4 +1,4 @@
-# Amigo Secreto con chofer designado🎉🚗
+# Amigo Secreto y chofer designado🎉🚗
 
 ![Carátula del juego](README.img/caratula.jpg)
 
@@ -8,6 +8,13 @@ Un juego interactivo en JavaScript que organiza un sorteo de "Amigo Secreto" con
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![Estado](https://img.shields.io/badge/estado-completo-green)
+🚀 Características principales
+
+- **Interfaz intuitiva**: Formularios claros para agregar amigos y gestionar conductores.
+- **Sorteo justo**: Algoritmo aleatorio que asegura imparcialidad en las asignaciones.
+- **Diseño responsivo**: Optimizado para navegadores modernos, con un fondo temático que refleja la esencia del proyecto.
+- **Accesibilidad**: Incluye atributos ARIA para mejorar la experiencia de usuarios con tecnologías de asistencia.
+- **Sin dependencias**: Construido con tecnologías web nativas (HTML, CSS, JavaScript).
 
 ## Descripción
 Este programa permite:
