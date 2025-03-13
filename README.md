@@ -33,19 +33,7 @@ Requisitos
 Un navegador moderno (Chrome, Firefox, Edge, etc.).
 Conexión a internet para cargar las fuentes de Google Fonts (Merriweather e Inter).
 No se necesitan dependencias externas, ¡es puro HTML, CSS y JavaScript vanilla! 🍦
-Estructura del proyecto
 
-amigo-secreto-designado/
-├── index.html         # Estructura principal del juego
-├── aplicacion.js      # Lógica del sorteo y manejo de datos
-├── estilo.css         # Estilos visuales con paleta de colores y efectos 3D
-├── assets/            # Imágenes y recursos
-│   ├── cena.webp      # Imagen de fondo
-│   └── play_circle_outline.png # Ícono del botón
-├── README.img/        # Imágenes para el README
-│   ├── caratula.png   # Imagen de portada
-│   └── captura.png    # Captura de pantalla
-└── README.md          # Archivo README
 Ejemplos de uso
 Agrega amigos:
 "Ana - Pizza"
@@ -55,10 +43,8 @@ Agrega amigos:
 Haz el sorteo. Resultado posible:
 
 Ana pagará la cena de María: Tacos. Conductor designado: Ana.
-Capturas de pantalla
-![Capturadel juego](README.img/captura.png)
 
-(Captura de la interfaz en acción para mostrar el diseño)
+![Capturadel juego](README.img/captura.png)
 
 Características visuales
 Paleta de colores : Celadon (#A6D49F), Olivino (#9CB380), Caput Mortuum (#522A27), Sinopia (#C73E1D).
