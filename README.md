@@ -1,6 +1,6 @@
-# Amigo Secreto con Conductor 🎉🚗
+# Amigo Secreto con chofer designado🎉🚗
 
-![Carátula del juego](README.img/caratula.png)
+![Carátula del juego](README.img/caratula.jpg)
 
 Un juego interactivo en JavaScript que organiza un sorteo de "Amigo Secreto" con un giro único: asigna quién paga la cena, quién la recibe y quién será el conductor designado. Todo envuelto en una interfaz elegante y colorida diseñada con CSS.
 
